@@ -1,6 +1,6 @@
 # Aviso
 
-Esse projeto está disponível em https://git.alice.ufsj.edu.br/fls/pitiupi. Essa versão implementa um plugin de quiz para o aplicativo, feito com propósito de ser um trabalho da disciplina de redes. Todos os créditos ao programa vão aos criadores do pitiupi.
+Esse projeto está disponível em https://git.alice.ufsj.edu.br/fls/pitiupi. Essa versão implementa um plugin de quiz para o aplicativo, feito com propósito de ser um trabalho da disciplina de redes. Todos os créditos do código vão aos criadores do pitiupi.
 
 # pitiupi
 
